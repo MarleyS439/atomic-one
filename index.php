@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="shortcut icon" href="assets/icons/IconAtomicWithoutBackground-White.ico" type="image/x-icon">
 
     <meta name="author" content="Marley de Sousa Santos">
     <meta name="description" content="">
@@ -31,7 +33,7 @@
     <main></main>
 
     <footer>
-        
+
         <!-- Copyright -->
         <div class="copy"></div>
     </footer>
